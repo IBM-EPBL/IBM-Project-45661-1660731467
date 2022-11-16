@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>output</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+        <style>
+            h3{
+                color:darkblue
+            }
+        </style>
+    </head>
+    <body style="background-color:lightpink">
+        <div class="col-md-offset-3" style="background-color:lightskyblue;">
+            <h3 class="page-header text-primary">output</h3>
+            <table class="table table-bordered">
+                <tr>
+                    <th>name</th>
+                    <td>{{name}}</td>
+                </tr>
+                <tr>
+                    <th>age</th>
+                    <td>{{age}}</td>
+                </tr>
+                <tr>
+                    <th>address</th>
+                    <td>{{address}}</td>
+                </tr>
+                <tr>
+                    <th>contact</th>
+                    <td>{{contact}}</td>
+                </tr>
+                <tr>
+                    <th>mail</th>
+                    <td>{{mail}}</td>
+                </tr>
+                <tr>
+                    <th>password</th>
+                    <td>{{password}}</td>
+                </tr>
+                <tr>
+                    <th>confirm_password</th>
+                    <td>{{confirm_password}}</td>
+                </tr>        
+            </table>
+        </div> 
+        <div>   
+        <p><h3><center>You register successfully</center></h3></p>
+        <p><h3>next time use same email and password to login in</h3></p>
+        <p><h3>thanks for register</h3></p>
+        </div>
+        <div>
+            <a href="/account"><input type="button" value="back to create account" class="btn btn-primary"></a>
+            <a href="/home_page"><input type="button" value="back to home page" class="btn btn-primary"></a>
+            <a href="/update"><input type="button" value="update" class="btn btn-primary"></a>
+            <a href="/view_profile"><input type="button" value="view_profile" class="btn btn-primary"></a>
+        </div>
+    </body>
+</html>

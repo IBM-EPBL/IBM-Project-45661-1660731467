@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width , initial-scale=1.0">
+        <title>food consume page</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+        <style>
+            h3{
+                color: blue;
+                border:10px;
+                border-radius: 10px;
+                background-color:cyan;   
+            }
+            h4{
+                color: black;
+            }
+            .form-group{
+                color: black;
+                text-align: center;
+                background-color: lightskyblue;
+            }
+            input{
+                color: black;
+                text-align: center;
+            }
+            #border{
+                border-radius:10px;
+                background-color: lightskyblue;
+                color: black;
+                width:560px;
+                height:740px;
+                padding:10px;
+            }
+            #pink{
+                background-color:deeppink;
+            }
+            #orange{
+                background-color: deeppink;
+                       
+            }
+            #blue1,#blue2,#blue3,#blue4,#blue5{
+                background-color: lightseagreen;
+            }
+            #days{
+                text-align:justify;
+                margin-left: 80px;
+                margin-right: 80px;
+                background-color: lightseagreen;
+            }
+            #days:hover{
+                background-color:deepskyblue;
+            }
+            #d1{
+                margin-right:10px;
+                text-align: justify;
+                background-color:lightseagreen;
+            }   
+            #d1:hover{
+                background-color:deeppink;
+            }
+            #header:hover{
+                background-color: chartreuse;
+            }
+            #colour{
+                background-color: deeppink;
+                float:left;
+            }
+            .service{
+                float:left;
+            }
+        </style>
+        </head>
+    <body style="background-color:lightpink">
+        <center>
+        <div id="border" style="margin-top:2px;">
+        <form action="/send" method="POST" autocomplete="off" border="3">
+            <div class="col-md-offset-4  col-md-6" style="margin-top:200px;">
+            <h3 id="header">add your food heres</h3><br>
+            <div>
+                <p id="group">
+                <label id="d1">choose which time your in</label><br>
+                <div id="days">
+                <input type="radio" name="m" id="m1" value="morning"><label for="morning">morning</label><br>
+                <input type="radio" name="a" id="a1" value="afternoon"><label for="afternoon">afternoon</label><br>
+                <input type="radio" name="e" id="e1" value="evening"><label for="evening">evening</label><br>
+                <input type="radio" name="n" id="n1" value="night"><label for="night">night</label><br>
+                </div>
+                </p>
+            </div>
+            <div class="pink">
+                <input type="text" name="food" placeholder="food" id="blue1"><br>
+                <input type="text" name="quantity"  placeholder="quantity" id="blue2"><br>
+                <input type="text" name="protein"  placeholder="protein" id="blue3"><br>
+                <input type="text" name="carbohydrate"  placeholder="carbohydrade" id="blue4"><br>
+                <input type="text" name="fat" placeholder="fat" id="blue5"><br>
+            </div><br><br>
+            <div>
+            <form class="service">
+            <input type="submit" name="submit-nutrition-form" value="submit" id="pink"></a>
+            <a href="/nutrition_page"><input type="button" value="nutrition-assistant" id="colour"></a>
+            <a href="/home"><input type="button" value="home" id="orange"></a>
+            </form>
+            </div>
+            </div>
+        </form>
+    </div>
+    </center>
+    </body>
+</html>
