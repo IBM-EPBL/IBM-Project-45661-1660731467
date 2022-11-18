@@ -1,0 +1,9 @@
+
+2022-11-16 14:00:27.061830
+ food:chicken
+ quantity:1
+ protein:2
+ carbohydrate:3
+ fat:4
+
+
