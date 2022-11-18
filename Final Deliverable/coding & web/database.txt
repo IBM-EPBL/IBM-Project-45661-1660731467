@@ -1,0 +1,55 @@
+
+2022-11-18 20:21:57.010323
+ name:udhaya shankar m
+ age:21
+ address:vellore
+ contact:98976543423
+ mail:udhaya@gmail.com
+ password:dsdd
+ confirm_password:dsdd
+
+
+
+2022-11-18 21:30:22.410114
+ name:aravind
+ age:21
+ address:vellore,tamilnadu
+ contact:9025680776
+ mail:udhaya1208aravind@gmail.com
+ password:1234
+ confirm_password:1234
+
+
+
+2022-11-18 22:22:05.984713
+ name:aravind
+ age:21
+ address:vellore,tamilnadu
+ contact:9025680776
+ mail:udhaya1208aravind@gmail.com
+ password:4321
+ confirm_password:4321
+
+
+
+2022-11-18 22:27:33.293693
+ name:udhaya
+ age:21
+ address:vekkore
+ contact:9025680776
+ mail:udhaya1208@gmail.com
+ password:4567
+ confirm_password:4567
+
+
+
+2022-11-18 23:15:08.551977
+ name:udhaya shankar m
+ age:21
+ address:vellore
+ contact:9025680776
+ mail:udaya1208aravind@gmail.com
+ password:1234
+ confirm_password:1234
+
+

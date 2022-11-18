@@ -1,0 +1,45 @@
+
+2022-11-17 22:16:27.339282
+ food:chicken
+ quantity:1
+ protein:2.5
+ carbohydrate:
+ fat:
+
+
+
+2022-11-17 22:17:00.992964
+ food:chicken
+ quantity:1
+ protein:54
+ carbohydrate:1.8
+ fat:28
+
+
+
+2022-11-18 21:33:17.789336
+ food:idly
+ quantity:4
+ protein:2.3gram
+ carbohydrate:20gram
+ fat:1mg
+
+
+
+2022-11-18 22:30:43.588797
+ food:chicken
+ quantity:100grams
+ protein:20
+ carbohydrate:5
+ fat:22
+
+
+
+2022-11-18 23:18:21.156821
+ food:chicken
+ quantity:100grams
+ protein:52
+ carbohydrate:20
+ fat:22
+
+

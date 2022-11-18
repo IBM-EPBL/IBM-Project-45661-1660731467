@@ -1,0 +1,169 @@
+Energy
+Protein
+Carbohydrates
+Total fat (NLEA)
+Fiber, total dietary
+Iron, Fe
+Calcium, Ca
+Potassium, K
+Zinc, Zn
+Selenium, Se
+Magnesium, Mg
+Choline, total
+Betaine
+Phosphorus, P
+Sodium, Na
+Copper, Cu
+Manganese, Mn
+Cryptoxanthin, beta
+Tocotrienol, alpha
+Vitamin E (alpha-tocopherol)
+Lycopene
+Niacin
+Pantothenic acid
+Lutein + zeaxanthin
+Vitamin B-6
+Vitamin B-12
+Vitamin K (Menaquinone-4)
+Vitamin C, total ascorbic acid
+Thiamin
+Riboflavin
+Vitamin A, RAE
+Vitamin D (D2 + D3), International Units
+Carotene, beta
+Carotene, alpha
+Vitamin K (Dihydrophylloquinone)
+Vitamin K (phylloquinone)
+Omega 3
+Caffeine
+Theobromine
+Retinol
+Folic acid
+Folate, total
+Fluoride, F
+Phenylalanine
+Valine
+Tryptophan
+Threonine
+Isoleucine
+Methionine
+Histidine
+Leucine
+Lysine
+Cystine
+Arginine
+Aspartic acid
+Serine
+Tyrosine
+Alanine
+Glutamic acid
+Glycine
+Proline
+Sugars, total including NLEA
+Sugars, Total NLEA
+Sucrose
+Glucose
+Maltose
+Fructose
+Lactose
+Galactose
+Cholesterol
+Phytosterols
+Stigmasterol
+Beta-sitosterol
+Campesterol
+Fatty acids, total trans
+Fatty acids, total saturated
+Fatty acids, total monounsaturated
+Fatty acids, total polyunsaturated
+Fatty acids, total trans-dienoic
+Fatty acids, total trans-monoenoic
+Fatty acids, total trans-polyenoic
+SFA 12:0
+SFA 14:0
+PUFA 22:6 n-3 (DHA)
+SFA 22:0
+PUFA 2:5 n-3 (EPA)
+PUFA 22:5 n-3 (DPA)
+SFA 17:0
+SFA 24:0
+TFA 16:1 t
+MUFA 24:1 c
+MUFA 18:1 c
+PUFA 18:2 n-6 c,c
+MUFA 22:1 c
+MUFA 17:1
+MUFA 15:1
+PUFA 18:3 n-3 c,c,c (ALA)
+PUFA 20:3 n-3
+PUFA 22:4
+Ash
+Starch
+PUFA 20:4
+PUFA 18:4
+SFA 15:0
+TFA 18:1 t
+TFA 22:1 t
+TFA 18:2 t not further defined
+PUFA 18:2 CLAs
+PUFA 20:2 n-6 c,c
+MUFA 16:1 c
+PUFA 18:3 n-6 c,c,c
+PUFA 20:3 n-6
+SFA 4:0
+SFA 6:0
+SFA 10:0
+SFA 16:0
+SFA 18:0
+SFA 20:0
+Tocopherol, delta
+Tocotrienol, gamma
+Tocotrienol, delta
+Tocopherol, beta
+Tocopherol, gamma
+Tocotrienol, beta
+Total lipid (fat)
+Carbohydrate, by difference
+Carbohydrate, by summation
+Water
+Nitrogen
+MUFA 14:1 c
+MUFA 20:1 c
+MUFA 22:1 n-9
+PUFA 22:2
+SFA 11:0
+TFA 18:3 t
+PUFA 20:3 n-9
+Choline, from glycerophosphocholine
+Choline, from sphingomyelin
+Choline, free
+Choline, from phosphotidyl choline
+Choline, from phosphocholine
+MUFA 17:1 c
+PUFA 18:2 c
+PUFA 18:3 c
+PUFA 20:3 c
+PUFA 2:4 c
+PUFA 2:5 c
+PUFA 22:5 c
+PUFA 22:6 c
+PUFA 20:2 c
+Energy (Atwater Specific Factors)
+Energy (Atwater General Factors)
+MUFA 20:1
+SFA 8:0
+PUFA 18:3i
+Alcohol, ethyl
+MUFA 18:1
+PUFA 18:2
+PUFA 18:3
+MUFA 16:1
+MUFA 22:1
+Vitamin A, IU
+MUFA 14:1
+PUFA 20:3
+SFA 13:0
+Vitamin E, added
+Vitamin B-12, added
+Folate, food
+Folate, DFE
