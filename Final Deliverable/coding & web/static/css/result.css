@@ -1,0 +1,98 @@
+.panel-container {
+  display: flex;
+  flex-flow: row wrap;
+  gap: 20px 30px;
+}
+
+#panel {
+  border-radius: 12px;
+  border: 2px solid #297293;
+  width: 170px;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  align-content: center;
+}
+
+#panel img{
+  max-width: 100%;
+  border-radius: 12px;
+}
+
+#panel span{
+  text-align: center;
+}
+
+table{
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+td{
+  padding: 5px;
+  text-align: center;
+}
+
+th{
+  background-color: #5be4db;
+  padding: 10px;
+}
+
+th:first-child, td:first-child {
+  text-align: left;
+}
+
+tr:nth-child(odd) {
+  background-color: #83dcf2;
+}
+
+/* border radius stuff */
+
+table tr:last-child td:first-child {
+    border-bottom-left-radius: 10px;
+}
+
+table tr:last-child td:last-child {
+    border-bottom-right-radius: 10px;
+}
+
+table th:first-child {
+    border-top-left-radius: 10px;
+}
+
+table th:last-child {
+    border-top-right-radius: 10px;
+}
+
+
+span.qval{
+  font-weight: bold;
+}
+
+.info{
+  display: block;
+}
+
+.qlist{
+  margin-top: -1px;
+  margin-bottom: 20px;
+}
+
+button {
+  background-color: #328ba8;
+  color: white;
+  padding: 4px;
+  padding-left: 18px;
+  text-align: left;
+  font-size: 16px;
+  border: 2px solid white;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 150px;
+  height: 30px;
+  margin: 10px;
+  margin-left: 0px;
+  outline: none;
+}
